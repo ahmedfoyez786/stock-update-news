@@ -20,7 +20,7 @@ This project checks the daily stock price changes for a specified company and se
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/stock-update-news.git
+   git clone https://github.com/ahmedfoyez786/stock-update-news.git
    cd stock-update-news
    ```
 
